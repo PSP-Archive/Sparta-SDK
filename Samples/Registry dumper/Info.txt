@@ -1,0 +1,1 @@
+Copies your registry and version.txt to ms0:/system.dreg, ms0:/system.ireg, and ms0:/version.txt .

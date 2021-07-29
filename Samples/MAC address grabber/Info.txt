@@ -1,0 +1,1 @@
+Prints your MAC address in ms0:/mac.txt .

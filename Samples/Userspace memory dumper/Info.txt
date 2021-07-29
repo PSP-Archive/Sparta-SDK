@@ -1,0 +1,1 @@
+Dumps the contents of user memory (0x1800000 bytes at 0x08800000) to ms0:/umem.bin.
